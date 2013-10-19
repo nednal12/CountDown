@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Campaign Season Fun</string>
+    <string name="action_settings">Settings</string>
+    <string name="political_affiliation">Please Select Your Political Affiliation</string>
+    <string name="go">Go</string>
+
+    
+    <string-array name="politicalPartyArray">
+        <item>Democrat</item>
+        <item>Republican</item>
+    </string-array>
+    
+</resources>
